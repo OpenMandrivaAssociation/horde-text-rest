@@ -66,3 +66,21 @@ fi
 %{peardir}/tests/Text_reST/tests/roles.phpt
 
 
+
+
+%changelog
+* Sat Jul 31 2010 Thomas Spuhler <tspuhler@mandriva.org> 0.0.2-13mdv2011.0
++ Revision: 564103
+- Increased release for rebuild
+
+* Thu Mar 18 2010 Thomas Spuhler <tspuhler@mandriva.org> 0.0.2-12mdv2010.1
++ Revision: 524787
+- replaced Requires(pre): %%{_bindir}/pear with Requires(pre): php-pear
+  increased release version
+
+* Sun Feb 21 2010 Thomas Spuhler <tspuhler@mandriva.org> 0.0.2-1mdv2010.1
++ Revision: 508865
+- replace PreRequ with Requires(pre)
+- import horde-text-rest
+
+
