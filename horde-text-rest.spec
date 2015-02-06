@@ -5,7 +5,7 @@
 
 Name:          horde-text-rest
 Version:       0.0.2
-Release:       %mkrel 13
+Release:       14
 Summary:       REStructuredText parser and formatters
 License:       LGPL
 Group:         Networking/Mail
