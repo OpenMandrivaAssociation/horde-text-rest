@@ -9,7 +9,7 @@ Release:       14
 Summary:       REStructuredText parser and formatters
 License:       LGPL
 Group:         Networking/Mail
-Url:           http://pear.horde.org/index.php?package=%{prj}
+Url:           https://pear.horde.org/index.php?package=%{prj}
 Source0:       %{prj}-%{version}.tgz
 BuildArch:     noarch
 Requires(pre): php-pear
